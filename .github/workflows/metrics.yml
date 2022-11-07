@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        with:
+        with: ${{ secrets.METRICS_TOKEN }}
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
