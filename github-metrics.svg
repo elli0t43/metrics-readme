@@ -2891,7 +2891,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes/kubernetes</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Production-Grade Container Scheduling and Management</div>
@@ -3999,7 +3999,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Dec 2022, 01:48:14 (timezone Asia/Calcutta) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 18 Dec 2022, 02:45:28 (timezone Asia/Calcutta) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
